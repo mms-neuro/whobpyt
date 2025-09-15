@@ -84,7 +84,6 @@ jobs:
         fetch_egmomi2023()
         fetch_egmomi2025()
         fetch_egismail2025()
-        fetch_egtmseeg()
         PY
         
     - name: Build docs
